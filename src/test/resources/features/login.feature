@@ -20,3 +20,4 @@ Feature:  As a user I should be able to login to Rahul Shetty Application with c
       |username                 |password|
       |ashish2008kumar@gmail.com|kahalgao|
       |ashish2008kumar@gmail.com|kahalgao|
+      |ashish2008kumar@gmail.com|kahalgao|
